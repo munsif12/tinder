@@ -1,2 +1,1 @@
-# tinder-clone-remotebase-interview
-Created with CodeSandbox
+# Tinder-app-for-dogs-Created with CodeSandbox 🐶 😃
